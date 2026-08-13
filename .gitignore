@@ -1,0 +1,16 @@
+# dado de paciente NUNCA entra neste repositorio
+*.csv
+*.parquet
+*.xlsx
+*.db
+*.sql
+dados/
+data/
+
+# artefatos
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.ubj
+*.model
+.env
