@@ -1,0 +1,7 @@
+algoritmo,contraste,dif,p_melhor,p_equiv,p_pior
+LightGBM,continuacao vs local,0.0013,0.062,0.93,0.007
+LightGBM,continuacao vs agrupada,-0.0128,0.0,0.119,0.881
+LightGBM,ajustada vs 50 fixas,0.0022,0.003,0.995,0.002
+CatBoost,continuacao vs local,0.0141,0.65,0.35,0.0
+CatBoost,continuacao vs agrupada,-0.0036,0.0,0.994,0.006
+CatBoost,ajustada vs 50 fixas,0.0079,0.285,0.715,0.0
